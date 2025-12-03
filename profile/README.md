@@ -16,7 +16,7 @@ Welcome to **BehindTheMusicTree**, an ecosystem of interconnected open-source pr
 
 A powerful, unified Python library for reading and writing audio metadata across multiple formats (ID3v1, ID3v2, Vorbis, RIFF). This is the foundational library that powers the rest of our ecosystem.
 
-- [GitHub Repository](https://github.com/Andreas-Garcia/audiometa)
+- [GitHub Repository](https://github.com/BehindTheMusicTree/audiometa)
 - [PyPI Package](https://pypi.org/project/audiometa-python/)
 
 ### 🌳 GrowTheMusicTree
@@ -24,6 +24,8 @@ A powerful, unified Python library for reading and writing audio metadata across
 **Status:** 🔨 Work in Progress
 
 A groundbreaking platform focused on building the definitive, interactive map of global music genres. This community-driven project aims to become the ultimate reference for understanding music genres through an ever-evolving, tree-shaped framework.
+
+- [GitHub Repository](https://github.com/BehindTheMusicTree/grow-the-music-tree)
 
 **Key Features:**
 
@@ -100,6 +102,7 @@ Our work contributes to preserving and organizing our global musical heritage. B
 
 - 🐛 **Issues**: Report bugs or suggest features in individual project repositories
 - 💬 **Discussions**: Join conversations here in the organization discussions
+- 🐙 **GitHub**: https://github.com/BehindTheMusicTree
 - 📧 **Email**: garcia.andreas.1991@gmail.com
 - 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/andreas-garcia/)
 
@@ -110,4 +113,3 @@ Our work contributes to preserving and organizing our global musical heritage. B
 **Thanks for being part of our community! 🎵**
 
 _Building the ultimate music genre reference, one contribution at a time._
-
