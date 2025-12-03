@@ -32,9 +32,9 @@ A groundbreaking platform focused on building the definitive, interactive map of
 - Dynamic, evolving genre tree built collaboratively
 - Personalized music journeys mapping listening habits
 - Intelligent genre detection for accurate categorization
-- API access through GetTheMusicTree
+- API access through TheMusicTreeAPI
 
-### 🔌 GetTheMusicTree
+### 🔌 TheMusicTreeAPI
 
 **Status:** 🔨 Work in Progress
 
@@ -47,7 +47,7 @@ The RESTful API companion to GrowTheMusicTree, providing developers and research
 - Personalized user profiling
 - Data-driven music recommendations
 
-### 🎧 InTheMusicTree
+### 🎧 HearTheMusicTree
 
 **Status:** 🔨 Work in Progress
 
