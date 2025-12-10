@@ -12,29 +12,30 @@ Welcome to **BehindTheMusicTree**, an ecosystem of interconnected open-source pr
 
 ### 🎵 AudioMeta Python
 
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=AudioMeta&color=181717&logo=github&logoColor=white&style=flat-square)](https://github.com/BehindTheMusicTree/audiometa)[![PyPI](https://img.shields.io/pypi/v/audiometa-python?style=flat-square)](https://pypi.org/project/audiometa-python/)
+
 **Status:** ✅ Active & Available
 
 A powerful, unified Python library for reading and writing audio metadata across multiple formats (ID3v1, ID3v2, Vorbis, RIFF). This is the foundational library that powers the rest of our ecosystem.
 
-- [GitHub Repository](https://github.com/BehindTheMusicTree/audiometa)
-- [PyPI Package](https://pypi.org/project/audiometa-python/)
-
 ### 🌳 GrowTheMusicTree
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=GrowTheMusicTree&color=181717&logo=github&logoColor=white&style=flat-square)](https://github.com/BehindTheMusicTree/grow-the-music-tree)
 
 **Status:** 🔨 Work in Progress
 
 A groundbreaking platform focused on building the definitive, interactive map of global music genres. This community-driven project aims to become the ultimate reference for understanding music genres through an ever-evolving, tree-shaped framework.
-
-- [GitHub Repository](https://github.com/BehindTheMusicTree/grow-the-music-tree)
 
 **Key Features:**
 
 - Dynamic, evolving genre tree built collaboratively
 - Personalized music journeys mapping listening habits
 - Intelligent genre detection for accurate categorization
-- API access through TheMusicTreeAPI
+- API access through [TheMusicTreeAPI](https://github.com/BehindTheMusicTree/the-music-tree-api)
 
 ### 🔌 TheMusicTreeAPI
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=TheMusicTreeAPI&color=181717&logo=github&logoColor=white&style=flat-square)](https://github.com/BehindTheMusicTree/the-music-tree-api)
 
 **Status:** 🔨 Work in Progress
 
@@ -48,6 +49,8 @@ The RESTful API companion to GrowTheMusicTree, providing developers and research
 - Data-driven music recommendations
 
 ### 🎧 HearTheMusicTree
+
+[![GitHub](https://img.shields.io/static/v1?label=GitHub&message=HearTheMusicTree&color=181717&logo=github&logoColor=white&style=flat-square)](https://github.com/BehindTheMusicTree/hear-the-music-tree-api)
 
 **Status:** 🔨 Work in Progress
 
