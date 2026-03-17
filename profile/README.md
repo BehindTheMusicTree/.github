@@ -8,6 +8,8 @@ Welcome to **BehindTheMusicTree**, an ecosystem of interconnected open-source pr
 
 **🌍 Our Vision:** Building the ultimate music genre reference and transforming the way the world navigates and understands music—where your journey, your collection, and your community thrive.
 
+**Discover the ecosystem:** [themusictree.org](https://themusictree.org) — one place to explore every project and see it in action.
+
 ## 📦 Our Projects
 
 ### 🎵 AudioMeta Python
@@ -17,6 +19,8 @@ Welcome to **BehindTheMusicTree**, an ecosystem of interconnected open-source pr
 **Status:** ✅ Active & Available
 
 A powerful, unified Python library for reading and writing audio metadata across multiple formats (ID3v1, ID3v2, Vorbis, RIFF). This is the foundational library that powers the rest of our ecosystem.
+
+**Live demo:** [audiometa.themusictree.org](https://audiometa.themusictree.org) — try reading and editing metadata for MP3, FLAC, WAV, and more in the browser.
 
 ### 🌳 GrowTheMusicTree
 
@@ -103,6 +107,7 @@ Our work contributes to preserving and organizing our global musical heritage. B
 
 ## 📫 Connect With Us
 
+- 🌐 **Ecosystem**: [themusictree.org](https://themusictree.org) — discover all projects and demos
 - 🐛 **Issues**: Report bugs or suggest features in individual project repositories
 - 💬 **Discussions**: Join conversations here in the organization discussions
 - 🐙 **GitHub**: https://github.com/BehindTheMusicTree
