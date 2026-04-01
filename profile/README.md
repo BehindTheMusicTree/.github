@@ -26,7 +26,7 @@ Each codebase’s own README still covers **clone, env, run, and contribute** fo
 |--------|-------------|--------|
 | AudioMeta Python | [Project page](https://themusictree.org/projects/audiometa) | [BehindTheMusicTree/audiometa](https://github.com/BehindTheMusicTree/audiometa) |
 | AudioMeta Webapp | [Project page](https://themusictree.org/projects/audiometa-webapp) | [BehindTheMusicTree/audiometa-frontend](https://github.com/BehindTheMusicTree/audiometa-frontend) |
-| GrowTheMusicTree | [Project page](https://themusictree.org/projects/grow-the-music-tree) | [BehindTheMusicTree/grow-the-music-tree](https://github.com/BehindTheMusicTree/grow-the-music-tree) |
+| GrowTheMusicTree | [Project page](https://themusictree.org/projects/grow-the-music-tree) | [BehindTheMusicTree/grow-the-music-tree-frontend](https://github.com/BehindTheMusicTree/grow-the-music-tree-frontend) |
 | TheMusicTreeAPI | [Project page](https://themusictree.org/projects/the-music-tree-api) | [BehindTheMusicTree/the-music-tree-api](https://github.com/BehindTheMusicTree/the-music-tree-api) |
 | HearTheMusicTree | [Project page](https://themusictree.org/projects/hear-the-music-tree) | [BehindTheMusicTree/hear-the-music-tree-api](https://github.com/BehindTheMusicTree/hear-the-music-tree-api) |
 
