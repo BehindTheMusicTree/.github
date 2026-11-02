@@ -17,7 +17,7 @@ We keep **one place** for public project presentation, structure, and deep descr
 | **Live portfolio** — explore every project, status, and demos | **[themusictree.org](https://themusictree.org)** and **[Projects](https://themusictree.org/projects)** |
 | **Source for that site** — copy, project pages, routing | **[the-music-tree-frontend](https://github.com/BehindTheMusicTree/the-music-tree-frontend)** (`src/app/projects/`, etc.) |
 | **README “Ecosystem” snippets** — templates and `/projects/…` slugs for sibling repos | **[docs/ECOSYSTEM_READMES.md](https://github.com/BehindTheMusicTree/the-music-tree-frontend/blob/main/docs/ECOSYSTEM_READMES.md)** in **the-music-tree-frontend** |
-| **Shared UI, tokens, and components** | **[organization-assets](https://github.com/BehindTheMusicTree/organization-assets)** (`@behindthemusictree/assets`) |
+| **Shared UI and brand** | **[ui](https://github.com/BehindTheMusicTree/ui)** (`@behindthemusictree/ui`) and **[the-music-tree-brand](https://github.com/BehindTheMusicTree/the-music-tree-brand)** (`@behindthemusictree/brand`), both on [npmjs](https://www.npmjs.com/org/behindthemusictree) |
 
 Each codebase’s own README still covers **clone, env, run, and contribute** for that repo only.
 
