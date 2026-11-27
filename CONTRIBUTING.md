@@ -16,7 +16,9 @@ For example, fixing an import that creates duplicates and adding its regression 
 
 ## Type and triage
 
-Set the actual issue type when creating an issue, including from the CLI. A deferred fix can use Bug with `follow-up`. Give every issue a type by the end of triage. Open issues without a type remain visible in [untyped issues awaiting triage](https://github.com/issues?q=org%3ABehindTheMusicTree+is%3Aissue+is%3Aopen+no%3Atype).
+Set the actual issue type when creating an issue, including from the CLI. A deferred fix can use Bug with `follow-up`. Give every issue a type by the end of triage. Find open untyped issues with advanced search: `gh api -X GET search/issues -f 'q=org:BehindTheMusicTree is:issue is:open no:type' -F advanced_search=true`.
+
+GitHub only enforces required form fields on public repositories; on private repositories, check the issue contains the information needed during triage.
 
 | Label | When to use it |
 | --- | --- |
@@ -29,4 +31,4 @@ A triaged issue can have zero labels.
 
 ## Link pull requests
 
-Use `Closes #123` when the PR fully resolves the issue. Reference a tracking parent or a check that must happen after merge without a closing keyword while its outcome is still pending.
+Use `Closes #123` when a PR targeting the default branch fully resolves the issue; for another repository use `Closes owner/repo#123`. Reference a tracking parent or a check that must happen after merge without a closing keyword while its outcome is still pending. Close a follow-up only after recording the observed result and evidence.
