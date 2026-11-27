@@ -1,0 +1,24 @@
+name: Bug report
+description: Report a reproducible or observed defect.
+type: Bug
+labels: [needs-triage]
+body:
+  - type: textarea
+    id: observed
+    attributes:
+      label: Observed behavior
+      description: "What happened?"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: "What should have happened?"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: "If known, include steps and relevant environment details."
