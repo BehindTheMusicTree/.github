@@ -1,0 +1,24 @@
+name: Tracking issue
+description: Coordinate several issues toward a shared outcome.
+type: Task
+labels: [tracking]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Overall objective
+      description: "What shared outcome do the sub-issues support?"
+    validations:
+      required: true
+  - type: textarea
+    id: success
+    attributes:
+      label: Success criterion
+      description: "What evidence will confirm the overall objective is met?"
+    validations:
+      required: true
+  - type: textarea
+    id: sub-issues
+    attributes:
+      label: Known sub-issues
+      description: "Reference known issues here and attach them using GitHub sub-issues after creation."

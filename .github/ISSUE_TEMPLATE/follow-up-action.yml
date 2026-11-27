@@ -1,0 +1,40 @@
+name: Follow-up action
+description: Track an action that must wait for a later event.
+type: Task
+labels: [follow-up]
+body:
+  - type: textarea
+    id: origin
+    attributes:
+      label: Origin
+      description: "Link the issue, pull request or decision that raised this action."
+    validations:
+      required: true
+  - type: textarea
+    id: action
+    attributes:
+      label: Deferred action
+      description: "What needs to happen later?"
+    validations:
+      required: true
+  - type: textarea
+    id: owner
+    attributes:
+      label: Owner
+      description: "Who is responsible for acting and recording the result?"
+    validations:
+      required: true
+  - type: textarea
+    id: trigger
+    attributes:
+      label: Trigger
+      description: "What event makes the action ready to start?"
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Result to verify
+      description: "What evidence should the owner record before closing?"
+    validations:
+      required: true
